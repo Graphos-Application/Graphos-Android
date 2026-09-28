@@ -1,0 +1,11 @@
+[
+  {"query": "음식과 그릇이 있는 사진", "expected": [
+    "KakaoTalk_20260902_212933355.jpg", "KakaoTalk_20260902_212933355_03.jpg",
+    "KakaoTalk_20260902_212933355_05.jpg", "KakaoTalk_20260902_212933355_07.jpg"]},
+  {"query": "군인이 밥 먹는 사진", "expected": ["KakaoTalk_20260902_212933355_06.jpg"]},
+  {"query": "커피잔 사진", "expected": ["test_cup.jpg"]},
+  {"query": "고양이 사진", "expected": []},
+  {"query": "여우 사진", "expected": ["12019-iceland-1979445_1920.jpg"]},
+  {"query": "밤에 불꽃놀이 하는 사진", "expected": ["KakaoTalk_20260902_212933355_04.jpg"]},
+  {"query": "얼룩말 사진", "expected": []}
+]

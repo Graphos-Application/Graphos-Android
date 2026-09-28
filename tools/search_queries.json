@@ -1,0 +1,25 @@
+[
+  {"query": "강아지", "expected": ["petfoto-dog-8198719_1920.jpg"]},
+  {"query": "밤에 있는 사람 사진", "expected": ["KakaoTalk_20260902_212933355_04.jpg"]},
+  {"query": "백팩을 메고 있는 사람 사진", "expected": ["KakaoTalk_20260902_212933355_09.jpg"]},
+  {"query": "사람 백팩", "expected": ["KakaoTalk_20260902_212933355_09.jpg"]},
+  {"query": "동물이 없고 꽃만 있는 사진", "expected": [
+    "flower-1511.jpg", "flower-3131.jpg", "flowers-wallpapers-101.jpg",
+    "pictures-of-natural-flowers-241.jpg", "tulips-natural-411.jpg",
+    "flower-wallpaper-high-definition-41.jpg", "flowers-background-171.jpg",
+    "pictures-of-beautiful-flowers-121.jpg", "pictures-of-flowers-high-definition-41.jpg",
+    "pictures-of-flowers-high-quality-71.jpg"]},
+  {"query": "꽃 사진", "expected": [
+    "flower-1511.jpg", "flower-3131.jpg", "flowers-wallpapers-101.jpg",
+    "pictures-of-natural-flowers-241.jpg", "tulips-natural-411.jpg",
+    "flower-wallpaper-high-definition-41.jpg", "flowers-background-171.jpg",
+    "pictures-of-beautiful-flowers-121.jpg", "pictures-of-flowers-high-definition-41.jpg",
+    "pictures-of-flowers-high-quality-71.jpg"]},
+  {"query": "동물이 여러 마리 나온 사진", "expected": [
+    "11994227-monkey-4164889_1920.jpg", "wolfgang-1958-meerkat-8345747_1920.jpg"]},
+  {"query": "오랑우탄 사진", "expected": ["11994227-monkey-4164889_1920.jpg"]},
+  {"query": "제일 최근에 찍은 사진", "expected": []},
+  {"query": "군복 입은 사람이 밥 먹는 사진", "expected": ["KakaoTalk_20260902_212933355_06.jpg"]},
+  {"query": "실내에 있는 침대 사진", "expected": ["test_bed.jpg"]},
+  {"query": "국수 먹는 사진", "expected": []}
+]
